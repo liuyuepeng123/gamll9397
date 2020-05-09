@@ -1,0 +1,1 @@
+在gmall-admin目录下进入cmd 运行npm run dev
